@@ -1,0 +1,10 @@
+# Dependency inventory only; not an independently tested lockfile.
+numpy
+pandas
+scipy
+scikit-learn
+torch
+monai
+nibabel
+joblib
+threadpoolctl
