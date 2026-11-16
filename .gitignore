@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+data/
+runs/
+reports/
+generated/
+*.dcm
+*.nii
+*.nii.gz
+*.pt
+*.pth
+*.ckpt
